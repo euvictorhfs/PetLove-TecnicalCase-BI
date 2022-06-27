@@ -12,8 +12,9 @@ Seu trabalho será apresentar um resultado final com DOIS pontos principais:
 * ~~PowerPoint / Apresentações Google~~ / Power BI (ou qualquer ferramenta de visualização) ⇒ apresentar os resultados para a equipe externa (Um Jupyter com bom markdown salvo em HTML sem exibir as células de códigos está ok também);
 * GitHub ⇒ como um repositório para armazenar os códigos e alguma - pequena - documentação.
 ### Descrição das colunas
-| Column  | Description |
-| id      | Identificação do cliente |
+| Column | Description |
+| ------ | ----------- |
+| id | Identificação do cliente |
 | created_at | Data de criação da assinatura |
 | updated_at | Data da última modificação da assinatura |
 | deleted_at | Data de cancelamento da assinatura |
