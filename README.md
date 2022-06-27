@@ -1,5 +1,4 @@
-# Dados
-# CASE ÁREA BI
+# PetLove - Case Área BI
 ## VAGAS: Engenharia de Dados, Ciência de Dados, Análise de Dados
 ### Desafio
 Seu desafio é participar da equipe de Assinatura, serviço onde o dono do animal programa a entrega de um conjunto de itens dentro de um período customizado, recebendo descontos e brindes exclusivos para assinantes. 
