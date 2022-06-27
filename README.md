@@ -14,25 +14,25 @@ Seu trabalho será apresentar um resultado final com DOIS pontos principais:
 ### Descrição das colunas
 | Column  | Description |
 | id      | Identificação do cliente |
-created_at Data de criação da assinatura
-updated_at Data da última modificação da assinatura
-deleted_at Data de cancelamento da assinatura
-name_hash Nome do usuário (criptografado)
-email_hash Email (criptografado)
-address_hash Endereço (criptografado)
-birth_date Data de aniversário do cliente
-status Status da assinatura
-version Versão da assinatura
-city Cidade do cliente
-state Estado do cliente
-neighborhood Bairro do cliente
-last_date_purchase Data do último pedido que ocorreu pela assinatura
-average_ticket Média de gasto por pedido
-items_quantity Média de itens na assinatura
-all_revenue Total de receita realizado pelo cliente
-all_orders Total de pedidos realizado pelo cliente
-recency Tempo desde a última compra do cliente
-marketing_source Canal de marketing que converteu a assinatura
+| created_at | Data de criação da assinatura |
+| updated_at | Data da última modificação da assinatura |
+| deleted_at | Data de cancelamento da assinatura |
+| name_hash | Nome do usuário (criptografado) |
+| email_hash | Email (criptografado) |
+| address_hash | Endereço (criptografado) |
+| birth_date | Data de aniversário do cliente |
+| status | Status da assinatura |
+| version | Versão da assinatura |
+| city | Cidade do cliente |
+| state | Estado do cliente |
+| neighborhood | Bairro do cliente |
+| last_date_purchase | Data do último pedido que ocorreu pela assinatura |
+| average_ticket | Média de gasto por pedido |
+| items_quantity | Média de itens na assinatura |
+| all_revenue | Total de receita realizado pelo cliente |
+| all_orders | Total de pedidos realizado pelo cliente |
+| recency | Tempo desde a última compra do cliente |
+| marketing_source | Canal de marketing que converteu a assinatura |
 ### Entrega final
 Códigos: seja em python / notebook ou SQL, para entender como gráficos e insights foram calculados;
 Documentação técnica: de preferência um README simples em markdown, para explicar a lógica do código em mais detalhes;
