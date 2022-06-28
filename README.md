@@ -1,6 +1,6 @@
 # PetLove - Case Área BI
-## VAGAS: Engenharia de Dados, Ciência de Dados, Análise de Dados
-### Desafio
+## Desafio para vagas de estágio em engenharia, ciência e análise de dados
+### O desafio
 Seu desafio é participar da equipe de Assinatura, serviço onde o dono do animal programa a entrega de um conjunto de itens dentro de um período customizado, recebendo descontos e brindes exclusivos para assinantes. 
 ### Problema
 A equipe de assinaturas tem como objetivo reduzir a perda de assinantes. O conceito de “Churn” refere-se a perda de qualquer usuário que assinou o serviço de assinatura da Petlove e o cancelou em algum momento após a contratação. Ao analisar os dados dos últimos meses, apesar de todas as melhorias de usabilidade da plataforma, o churn vem aumentando. Aqui está o gráfico para exemplificar:
